@@ -1,0 +1,5 @@
+
+
+~/.local/bin/jupyter-book build CV_website/
+
+~/.local/bin/ghp-import -n -p -f _build/html/

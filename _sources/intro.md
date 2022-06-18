@@ -1,4 +1,2 @@
-# Intro
-
-# Welcome to my page 
+# Welcome 
 

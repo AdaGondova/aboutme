@@ -29,7 +29,7 @@
  
 **Infant cortical microstructure at term-equivalent age accurately predicts prematurity at birth**<br>
 (OHBM 2022, Glasgow, UK)<br>
-[short video here (soon)](youtube link)<br>
+[Short video >>here<<](https://vimeo.com/766127291)<br>
 [poster here](images/posters/ohbm2022.md)
 
 

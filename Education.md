@@ -4,7 +4,7 @@
 
 [**PhD Neuroscience**](http://www.ifd.upmc.fr/fr/le-doctorat-a-l-upmc/les-ecoles-doctorales/cerveau-cognition-comportement-3c-ed-158.html)<br>
 *Universite Paris Cite*<br>
-2021 - ongoing<br>
+2021 - 2023<br>
 
 Mapping brain development in the newborn: Large database analyses in multi-modal and multiscale imaging and modelling.<br>
 <!---Testing here 
